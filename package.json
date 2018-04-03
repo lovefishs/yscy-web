@@ -1,0 +1,27 @@
+{
+  "name": "yscy-web",
+  "version": "0.0.1",
+  "description": "yscy web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovefishs/yscy-web.git"
+  },
+  "author": "lovefishs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovefishs/yscy-web/issues"
+  },
+  "homepage": "https://github.com/lovefishs/yscy-web#readme",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.16"
+  },
+  "devDependencies": {}
+}
